@@ -1,100 +1,105 @@
-# 🚀 LeetCode Solutions
+<h1 align="center">🚀 LeetCode Solutions</h1>
 
-**My LeetCode solutions** — automatically synced using **LeetSync**.  
-Clean, professional, and always up-to-date.
+<p align="center">
+  <a href="https://mhdnazrul.github.io/LeetCode-Solutions/">
+    <img src="https://img.shields.io/badge/🌐 View_Website-Click_Here-2ecc71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/network)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mhdnazrul-blue?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/mhdnazrul/)
-[![License](https://img.shields.io/github/license/mhdnazrul/LeetCode-Solutions?style=flat-square)](LICENSE)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
+  <img src="https://img.shields.io/badge/Total%20Solved-3-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
+  <a href="https://leetcode.com/mhdnazrul/">
+    <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
 
----
-
-## 📖 Table of Contents
-- [Introduction](#-introduction)
-- [LeetCode Profile](#-leetcode-profile)
-- [Repository Structure](#-repository-structure)
-- [Progress Statistics](#-progress-statistics)
-- [Solution Index](#-solution-index)
-- [How It Works](#-how-it-works)
-- [Contribution](#-contribution)
-- [License](#-license)
-
----
-
-## ✨ Introduction
-This repository contains all my **LeetCode solutions** (C++, Python, Java, etc.).  
-Every **Accepted** submission on LeetCode is instantly pushed here by the **LeetSync** Chrome extension — zero manual work!
+<p align="center">
+  <b>🔗 Find me on:</b>
+  <a href="https://github.com/mhdnazrul">GitHub</a> |
+  <a href="https://leetcode.com/mhdnazrul/">LeetCode</a> |
+  <a href="https://www.linkedin.com/in/nazrulislam7/">LinkedIn</a>
+</p>
 
 ---
+## 📊 Progress Statistics
 
-## 👤 LeetCode Profile
-[View my LeetCode profile → https://leetcode.com/mhdnazrul/](https://leetcode.com/mhdnazrul/)
+<!-- STATS_START -->
+**Total Problems Solved:** 3
+
+| Difficulty | Count | Progress |
+|:-----------|:-----:|:--------:|
+| 🟢 Easy   | 3 | ███░░░░░░░ |
+| 🟡 Medium | 0 | ░░░░░░░░░░ |
+| 🔴 Hard   | 0 | ░░░░░░░░░░ |
+
+<details><summary><b>📈 Language Breakdown</b></summary>
+
+| Language | Count |
+|:---------|:-----:|
+| C++ | 3 |
+
+</details>
+<!-- STATS_END -->
+
+---
+## 📋 Solution Index
+
+<!-- SOLUTIONS_TABLE_START -->
+| # | Problem Name | Difficulty | Language | Problem | Solution |
+|:--|:-------------|:----------:|:--------:|:-------:|:--------:|
+| 1 | Two Sum | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/two-sum/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1-two-sum/two-sum.cpp) |
+| 9 | Palindrome Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/palindrome-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp) |
+| 4179 | Largest Even Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/largest-even-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp) |
+
+<!-- SOLUTIONS_TABLE_END -->
+
+---
+## 🔄 How It Works
+
+1. **Solve & Submit** on LeetCode → Accepted ✅
+2. **LeetSync** Chrome extension automatically pushes the solution to this repo
+3. **GitHub Actions** runs `Web/generate.py` on every push to `main`
+4. The script:
+   - Scans `Solutions/` directory (LeetSync format: `{id}-{slug}/`)
+   - Extracts **difficulty** from each problem's `README.md` shield badge
+   - Writes `Web/solutions.json` for the website
+   - Rewrites this `README.md` with updated stats + table
+5. The `Web/` folder is **deployed to GitHub Pages** automatically
 
 ---
 
 ## 📂 Repository Structure
+
 ```
 LeetCode-Solutions/
-├── Solutions/                  # ← Auto-created by LeetSync
+├── .github/workflows/
+│   └── automation.yml          ← GitHub Actions workflow
+├── Solutions/                  ← Auto-created by LeetSync
 │   ├── 1-two-sum/
 │   │   ├── two-sum.cpp
-│   │   └── README.md
-│   ├── 9-palindrome-number/
-│   │   ├── palindrome-number.cpp
-│   │   └── README.md
+│   │   └── README.md           ← Contains difficulty badge
 │   └── ...
-├── .github/workflows/
-├── update_readme.py
-├── README.md
-├── .gitignore
-└── LICENSE
+├── Web/
+│   ├── generate.py             ← 🤖 Automation script
+│   ├── index.html              ← Website SPA
+│   ├── style.css
+│   ├── script.js
+│   └── solutions.json          ← Auto-generated data
+├── README.md                   ← Auto-updated by automation
+└── .gitignore
 ```
-
-LeetSync creates one folder per problem (`[id]-[kebab-slug]/`) with the solution file named `[slug].cpp` (or .py/.java).
-
----
-
-## 📊 Progress Statistics
-
-**Total Problems Solved:** 3
-
-| Difficulty | Count |
-|------------|-------|
-| Easy       | 3     |
-| Medium     | 0     |
-| Hard       | 0     |
-
----
-
-## 📋 Solution Index
-<!-- SOLUTIONS_TABLE_START -->
-| #    | Problem Name             | LeetCode Link                          | Language | Solution |
-|------|--------------------------|----------------------------------------|----------|----------|
-| 1    | Two Sum                  | [Link](https://leetcode.com/problems/two-sum) | C++      | [View](./Solutions/1-two-sum/two-sum.cpp) |
-| 9    | Palindrome Number        | [Link](https://leetcode.com/problems/palindrome-number) | C++      | [View](./Solutions/9-palindrome-number/palindrome-number.cpp) |
-| 4179 | Largest Even Number      | [Link](https://leetcode.com/problems/largest-even-number) | C++      | [View](./Solutions/4179-largest-even-number/largest-even-number.cpp) |
-<!-- SOLUTIONS_TABLE_END -->
-
----
-
-## 🔄 How It Works
-1. Solve & submit on LeetCode → Accepted  
-2. LeetSync automatically pushes to this repo  
-3. GitHub Actions instantly updates this README (stats + table)
-
----
-
-## 🤝 Contribution
-- Feel free to open issues for suggestions.
-- Want to add your own solutions? Fork the repo and send a PR!
 
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file.
+
+This project is licensed under the **MIT License**.
 
 ---
 
-**⭐ Star this repo** if it helps your journey!  
-Happy Coding! 💻
+<p align="center">
+  <b>⭐ Star this repo</b> if it helps your journey! Happy Coding! 💻<br>
+  <i>Auto-generated by <a href="Web/generate.py">Web/generate.py</a></i>
+</p>

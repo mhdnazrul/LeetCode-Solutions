@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "id_str": "0001",
+    "name": "Two Sum",
+    "slug": "two-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/1-two-sum/two-sum.cpp",
+    "folder": "1-two-sum",
+    "lc_link": "https://leetcode.com/problems/two-sum/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1-two-sum/two-sum.cpp"
+  },
+  {
+    "id": 9,
+    "id_str": "0009",
+    "name": "Palindrome Number",
+    "slug": "palindrome-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/9-palindrome-number/palindrome-number.cpp",
+    "folder": "9-palindrome-number",
+    "lc_link": "https://leetcode.com/problems/palindrome-number/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp"
+  },
+  {
+    "id": 4179,
+    "id_str": "4179",
+    "name": "Largest Even Number",
+    "slug": "largest-even-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/4179-largest-even-number/largest-even-number.cpp",
+    "folder": "4179-largest-even-number",
+    "lc_link": "https://leetcode.com/problems/largest-even-number/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp"
+  }
+]

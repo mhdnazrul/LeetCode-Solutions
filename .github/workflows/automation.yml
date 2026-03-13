@@ -1,0 +1,57 @@
+name: 🤖 Update Archive & Deploy
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:   # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write      # Needed to commit README/json changes back
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    name: Generate README, JSON & Deploy to GitHub Pages
+
+    steps:
+      # 1. Checkout the full repo
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 2. Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Install Python dependencies
+      #    (no external deps needed — only stdlib)
+      - name: Install Dependencies
+        run: pip install --upgrade pip
+
+      # 4. Run the generator — updates README.md and Web/solutions.json
+      - name: Run Generator Script
+        run: python Web/generate.py
+
+      # 5. Commit updated README.md + solutions.json back to main
+      - name: Commit Changes to Main
+        run: |
+          git config --global user.name  'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md Web/solutions.json
+          git commit -m "🤖 Auto-update: README & solutions.json [skip ci]" || echo "✅ No changes to commit"
+          git push
+
+      # 6. Copy Solutions/ into Web/ so the website can link to raw files
+      - name: Prepare Web Folder for Deployment
+        run: |
+          cp -r Solutions Web/ || true
+
+      # 7. Deploy Web/ to gh-pages branch → GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./Web
+          force_orphan: true
+          commit_message: "🚀 Deploy: update GitHub Pages site [skip ci]"

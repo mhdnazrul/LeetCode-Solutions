@@ -2,14 +2,6 @@
 
 **My collection of LeetCode solutions** — automatically synced from LeetCode using the **LeetSync** Chrome extension.
 
-> Clean, organized, and always up-to-date. Perfect for interview preparation, algorithm practice, and building a professional developer portfolio.
-
-[![Stars](https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/stargazers)
-[![Forks](https://img.shields.io/github/forks/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/network/members)
-[![Issues](https://img.shields.io/github/issues/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/issues)
-[![License](https://img.shields.io/github/license/mhdnazrul/LeetCode-Solutions?style=flat-square)](LICENSE)
-[![LeetSync](https://img.shields.io/badge/Synced%20with-LeetSync-brightgreen?style=flat-square)](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd)
-
 ---
 
 ## 📖 Table of Contents
@@ -104,4 +96,4 @@ Inside each folder you will find the solution file (usually named `Solution.<ext
 **⭐ Star this repo** if it helps you!  
 Happy Coding! 💻
 
-Made with ❤️ by [YOUR_NAME](https://github.com/mhdnazrul)
+Made with ❤️ by [Nazrul Islam](https://github.com/mhdnazrul)

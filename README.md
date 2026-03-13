@@ -1,99 +1,100 @@
 # 🚀 LeetCode Solutions
 
-**My collection of LeetCode solutions** — automatically synced from LeetCode using the **LeetSync** Chrome extension.
+**My LeetCode solutions** — automatically synced using **LeetSync**.  
+Clean, professional, and always up-to-date.
+
+[![GitHub stars](https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mhdnazrul/LeetCode-Solutions?style=flat-square&logo=github)](https://github.com/mhdnazrul/LeetCode-Solutions/network)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mhdnazrul-blue?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/mhdnazrul/)
+[![License](https://img.shields.io/github/license/mhdnazrul/LeetCode-Solutions?style=flat-square)](LICENSE)
 
 ---
 
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
+- [LeetCode Profile](#-leetcode-profile)
 - [Repository Structure](#-repository-structure)
 - [Progress Statistics](#-progress-statistics)
-- [Language Breakdown](#-language-breakdown)
 - [Solution Index](#-solution-index)
 - [How It Works](#-how-it-works)
-- [Setup & Sync](#-setup--sync)
+- [Contribution](#-contribution)
+- [License](#-license)
 
 ---
 
 ## ✨ Introduction
-This repository contains **all my LeetCode solutions** in multiple languages (C++, Python, Java, etc.).  
-Every time I submit an **Accepted** solution on LeetCode, **LeetSync** automatically pushes the code to this repo — no manual uploads needed!
+This repository contains all my **LeetCode solutions** (C++, Python, Java, etc.).  
+Every **Accepted** submission on LeetCode is instantly pushed here by the **LeetSync** Chrome extension — zero manual work!
+
+---
+
+## 👤 LeetCode Profile
+[View my LeetCode profile → https://leetcode.com/mhdnazrul/](https://leetcode.com/mhdnazrul/)
 
 ---
 
 ## 📂 Repository Structure
 ```
 LeetCode-Solutions/
-├── Solutions/                  # ← All problems live here (auto-created by LeetSync)
-│   ├── 0001-two-sum/
-│   │   └── Solution.cpp        # (or .py, .java, etc.)
-│   ├── 0002-add-two-numbers/
-│   │   └── Solution.java
+├── Solutions/                  # ← Auto-created by LeetSync
+│   ├── 1-two-sum/
+│   │   ├── two-sum.cpp
+│   │   └── README.md
+│   ├── 9-palindrome-number/
+│   │   ├── palindrome-number.cpp
+│   │   └── README.md
 │   └── ...
+├── .github/workflows/
+├── update_readme.py
 ├── README.md
 ├── .gitignore
-└── (optional) LICENSE
+└── LICENSE
 ```
 
-**LeetSync automatically creates** one folder per problem using the format:  
-`0001-two-sum` / `0002-add-two-numbers` (padded ID + kebab-case slug).  
-Inside each folder you will find the solution file (usually named `Solution.<ext>`).
+LeetSync creates one folder per problem (`[id]-[kebab-slug]/`) with the solution file named `[slug].cpp` (or .py/.java).
 
 ---
 
 ## 📊 Progress Statistics
 
-**Total Problems Solved:** `XXX` *(update this manually or automate with GitHub Actions)*
+**Total Problems Solved:** 3
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 0     |
+| Easy       | 3     |
 | Medium     | 0     |
 | Hard       | 0     |
 
 ---
 
-## 💻 Language Breakdown
-
-| Language | Percentage | Files |
-|----------|------------|-------|
-| C++      | 0%         | 0     |
-| Python   | 0%         | 0     |
-| Java     | 0%         | 0     |
-| Others   | 0%         | 0     |
-
-*(You can update this manually or use a GitHub Action to auto-calculate it.)*
-
----
-
 ## 📋 Solution Index
-
-| #    | Problem Name              | Difficulty | Language | Solution |
-|------|---------------------------|------------|----------|----------|
-| 1    | Two Sum                   | Easy       | C++      | [View →](./Solutions/0001-two-sum/Solution.cpp) |
-| 2    | Add Two Numbers           | Medium     | Python   | [View →](./Solutions/0002-add-two-numbers/Solution.py) |
-
-**Tip:** Click the folder names in the `Solutions/` directory on GitHub to browse any problem instantly.
+<!-- SOLUTIONS_TABLE_START -->
+| #    | Problem Name             | LeetCode Link                          | Language | Solution |
+|------|--------------------------|----------------------------------------|----------|----------|
+| 1    | Two Sum                  | [Link](https://leetcode.com/problems/two-sum) | C++      | [View](./Solutions/1-two-sum/two-sum.cpp) |
+| 9    | Palindrome Number        | [Link](https://leetcode.com/problems/palindrome-number) | C++      | [View](./Solutions/9-palindrome-number/palindrome-number.cpp) |
+| 4179 | Largest Even Number      | [Link](https://leetcode.com/problems/largest-even-number) | C++      | [View](./Solutions/4179-largest-even-number/largest-even-number.cpp) |
+<!-- SOLUTIONS_TABLE_END -->
 
 ---
 
 ## 🔄 How It Works
-- I solve a problem on LeetCode → Submit → Get **Accepted**.
-- **LeetSync** Chrome extension instantly pushes the solution to this repo.
-- No extra steps. Always up-to-date!
+1. Solve & submit on LeetCode → Accepted  
+2. LeetSync automatically pushes to this repo  
+3. GitHub Actions instantly updates this README (stats + table)
 
 ---
 
-## ⚙️ Setup & Sync
-1. Create this repository (name it `LeetCode-Solutions`).
-2. Install **LeetSync** from Chrome Web Store.
-3. Click the extension icon → Authorize GitHub → Select **this repository**.
-4. (Recommended) Set **Subdirectory** to `Solutions/` in LeetSync settings.
-5. Start solving problems — everything syncs automatically!
+## 🤝 Contribution
+- Feel free to open issues for suggestions.
+- Want to add your own solutions? Fork the repo and send a PR!
 
 ---
 
-**⭐ Star this repo** if it helps you!  
+## 📄 License
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file.
+
+---
+
+**⭐ Star this repo** if it helps your journey!  
 Happy Coding! 💻
-
-Made with ❤️ by [Nazrul Islam](https://github.com/mhdnazrul)

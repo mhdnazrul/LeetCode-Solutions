@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+*.exe
+*.out
+*.class
+
+# LeetSync metadata (if created)
+LeetSync-*.txt
+LeetSync-Metadata.txt
+
+# Temporary
+*.tmp
+*.log

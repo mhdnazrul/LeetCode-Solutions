@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-5-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-6-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,19 +26,19 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 5
+**Total Problems Solved:** 6
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
 | 🟢 Easy   | 4 | ████░░░░░░ |
-| 🟡 Medium | 1 | █░░░░░░░░░ |
+| 🟡 Medium | 2 | ██░░░░░░░░ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
 <details><summary><b>📈 Language Breakdown</b></summary>
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 5 |
+| C++ | 6 |
 
 </details>
 <!-- STATS_END -->
@@ -52,6 +52,7 @@
 | 1 | Two Sum | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/two-sum/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1-two-sum/two-sum.cpp) |
 | 9 | Palindrome Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/palindrome-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp) |
 | 792 | Binary Search | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-search/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp) |
+| 948 | Sort An Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/sort-an-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp) |
 | 4062 | House Robber V | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/house-robber-v/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4062-house-robber-v/house-robber-v.cpp) |
 | 4179 | Largest Even Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/largest-even-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp) |
 

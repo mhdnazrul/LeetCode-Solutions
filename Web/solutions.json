@@ -36,6 +36,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp"
   },
   {
+    "id": 948,
+    "id_str": "0948",
+    "name": "Sort An Array",
+    "slug": "sort-an-array",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/948-sort-an-array/sort-an-array.cpp",
+    "folder": "948-sort-an-array",
+    "lc_link": "https://leetcode.com/problems/sort-an-array/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp"
+  },
+  {
     "id": 4062,
     "id_str": "4062",
     "name": "House Robber V",

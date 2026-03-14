@@ -24,6 +24,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp"
   },
   {
+    "id": 792,
+    "id_str": "0792",
+    "name": "Binary Search",
+    "slug": "binary-search",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/792-binary-search/binary-search.cpp",
+    "folder": "792-binary-search",
+    "lc_link": "https://leetcode.com/problems/binary-search/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp"
+  },
+  {
     "id": 4062,
     "id_str": "4062",
     "name": "House Robber V",

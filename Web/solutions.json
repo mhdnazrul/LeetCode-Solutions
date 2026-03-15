@@ -24,6 +24,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp"
   },
   {
+    "id": 13,
+    "id_str": "0013",
+    "name": "Roman To Integer",
+    "slug": "roman-to-integer",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/13-roman-to-integer/roman-to-integer.cpp",
+    "folder": "13-roman-to-integer",
+    "lc_link": "https://leetcode.com/problems/roman-to-integer/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/13-roman-to-integer/roman-to-integer.cpp"
+  },
+  {
     "id": 792,
     "id_str": "0792",
     "name": "Binary Search",

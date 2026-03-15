@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-12-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-13-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,11 +26,11 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 12
+**Total Problems Solved:** 13
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
-| 🟢 Easy   | 9 | █████████░ |
+| 🟢 Easy   | 10 | ██████████ |
 | 🟡 Medium | 3 | ███░░░░░░░ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 12 |
+| C++ | 13 |
 
 </details>
 <!-- STATS_END -->
@@ -58,6 +58,7 @@
 | 3476 | Find Minimum Operations To Make All Elements Divisible By Three | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) |
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3496-minimum-number-of-seconds-to-make-mountain-height-zero/minimum-number-of-seconds-to-make-mountain-height-zero.cpp) |
 | 4062 | House Robber V | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/house-robber-v/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4062-house-robber-v/house-robber-v.cpp) |
+| 4126 | Minimum Number Of Flips To Reverse Binary String | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4126-minimum-number-of-flips-to-reverse-binary-string/minimum-number-of-flips-to-reverse-binary-string.cpp) |
 | 4150 | Sort Integers By Binary Reflection | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4150-sort-integers-by-binary-reflection/sort-integers-by-binary-reflection.cpp) |
 | 4179 | Largest Even Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/largest-even-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp) |
 | 4216 | Weighted Word Mapping | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/weighted-word-mapping/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4216-weighted-word-mapping/weighted-word-mapping.cpp) |

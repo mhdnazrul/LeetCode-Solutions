@@ -94,5 +94,17 @@
     "folder": "4179-largest-even-number",
     "lc_link": "https://leetcode.com/problems/largest-even-number/",
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp"
+  },
+  {
+    "id": 4216,
+    "id_str": "4216",
+    "name": "Weighted Word Mapping",
+    "slug": "weighted-word-mapping",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/4216-weighted-word-mapping/weighted-word-mapping.cpp",
+    "folder": "4216-weighted-word-mapping",
+    "lc_link": "https://leetcode.com/problems/weighted-word-mapping/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4216-weighted-word-mapping/weighted-word-mapping.cpp"
   }
 ]

@@ -132,6 +132,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4137-number-of-prefix-connected-groups/number-of-prefix-connected-groups.cpp"
   },
   {
+    "id": 4141,
+    "id_str": "4141",
+    "name": "Count Elements With At Least K Greater Values",
+    "slug": "count-elements-with-at-least-k-greater-values",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/4141-count-elements-with-at-least-k-greater-values/count-elements-with-at-least-k-greater-values.cpp",
+    "folder": "4141-count-elements-with-at-least-k-greater-values",
+    "lc_link": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4141-count-elements-with-at-least-k-greater-values/count-elements-with-at-least-k-greater-values.cpp"
+  },
+  {
     "id": 4150,
     "id_str": "4150",
     "name": "Sort Integers By Binary Reflection",

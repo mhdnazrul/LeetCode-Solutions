@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-14-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-15-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,19 +26,19 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 14
+**Total Problems Solved:** 15
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
 | 🟢 Easy   | 10 | ██████████ |
-| 🟡 Medium | 4 | ████░░░░░░ |
+| 🟡 Medium | 5 | █████░░░░░ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
 <details><summary><b>📈 Language Breakdown</b></summary>
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 14 |
+| C++ | 15 |
 
 </details>
 <!-- STATS_END -->
@@ -60,6 +60,7 @@
 | 4062 | House Robber V | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/house-robber-v/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4062-house-robber-v/house-robber-v.cpp) |
 | 4126 | Minimum Number Of Flips To Reverse Binary String | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4126-minimum-number-of-flips-to-reverse-binary-string/minimum-number-of-flips-to-reverse-binary-string.cpp) |
 | 4137 | Number Of Prefix Connected Groups | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/number-of-prefix-connected-groups/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4137-number-of-prefix-connected-groups/number-of-prefix-connected-groups.cpp) |
+| 4141 | Count Elements With At Least K Greater Values | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4141-count-elements-with-at-least-k-greater-values/count-elements-with-at-least-k-greater-values.cpp) |
 | 4150 | Sort Integers By Binary Reflection | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4150-sort-integers-by-binary-reflection/sort-integers-by-binary-reflection.cpp) |
 | 4179 | Largest Even Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/largest-even-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp) |
 | 4216 | Weighted Word Mapping | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/weighted-word-mapping/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4216-weighted-word-mapping/weighted-word-mapping.cpp) |

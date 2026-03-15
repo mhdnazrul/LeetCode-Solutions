@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-11-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-12-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,11 +26,11 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 11
+**Total Problems Solved:** 12
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
-| 🟢 Easy   | 8 | ████████░░ |
+| 🟢 Easy   | 9 | █████████░ |
 | 🟡 Medium | 3 | ███░░░░░░░ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 11 |
+| C++ | 12 |
 
 </details>
 <!-- STATS_END -->
@@ -55,6 +55,7 @@
 | 792 | Binary Search | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-search/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp) |
 | 948 | Sort An Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/sort-an-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp) |
 | 1071 | Binary Prefix Divisible By 5 | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp) |
+| 3476 | Find Minimum Operations To Make All Elements Divisible By Three | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) |
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3496-minimum-number-of-seconds-to-make-mountain-height-zero/minimum-number-of-seconds-to-make-mountain-height-zero.cpp) |
 | 4062 | House Robber V | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/house-robber-v/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4062-house-robber-v/house-robber-v.cpp) |
 | 4150 | Sort Integers By Binary Reflection | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4150-sort-integers-by-binary-reflection/sort-integers-by-binary-reflection.cpp) |

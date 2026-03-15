@@ -72,6 +72,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp"
   },
   {
+    "id": 3476,
+    "id_str": "3476",
+    "name": "Find Minimum Operations To Make All Elements Divisible By Three",
+    "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
+    "folder": "3476-find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "lc_link": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.cpp"
+  },
+  {
     "id": 3496,
     "id_str": "3496",
     "name": "Minimum Number Of Seconds To Make Mountain Height Zero",

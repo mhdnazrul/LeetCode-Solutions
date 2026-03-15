@@ -168,6 +168,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4179-largest-even-number/largest-even-number.cpp"
   },
   {
+    "id": 4190,
+    "id_str": "4190",
+    "name": "Minimum Operations To Reach Target Array",
+    "slug": "minimum-operations-to-reach-target-array",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/4190-minimum-operations-to-reach-target-array/minimum-operations-to-reach-target-array.cpp",
+    "folder": "4190-minimum-operations-to-reach-target-array",
+    "lc_link": "https://leetcode.com/problems/minimum-operations-to-reach-target-array/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4190-minimum-operations-to-reach-target-array/minimum-operations-to-reach-target-array.cpp"
+  },
+  {
     "id": 4216,
     "id_str": "4216",
     "name": "Weighted Word Mapping",

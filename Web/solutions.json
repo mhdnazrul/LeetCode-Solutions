@@ -48,6 +48,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp"
   },
   {
+    "id": 3496,
+    "id_str": "3496",
+    "name": "Minimum Number Of Seconds To Make Mountain Height Zero",
+    "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/3496-minimum-number-of-seconds-to-make-mountain-height-zero/minimum-number-of-seconds-to-make-mountain-height-zero.cpp",
+    "folder": "3496-minimum-number-of-seconds-to-make-mountain-height-zero",
+    "lc_link": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3496-minimum-number-of-seconds-to-make-mountain-height-zero/minimum-number-of-seconds-to-make-mountain-height-zero.cpp"
+  },
+  {
     "id": 4062,
     "id_str": "4062",
     "name": "House Robber V",

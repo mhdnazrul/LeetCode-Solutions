@@ -60,6 +60,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp"
   },
   {
+    "id": 1071,
+    "id_str": "1071",
+    "name": "Binary Prefix Divisible By 5",
+    "slug": "binary-prefix-divisible-by-5",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp",
+    "folder": "1071-binary-prefix-divisible-by-5",
+    "lc_link": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp"
+  },
+  {
     "id": 3496,
     "id_str": "3496",
     "name": "Minimum Number Of Seconds To Make Mountain Height Zero",

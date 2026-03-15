@@ -108,6 +108,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4062-house-robber-v/house-robber-v.cpp"
   },
   {
+    "id": 4087,
+    "id_str": "4087",
+    "name": "Maximum Substrings With Distinct Start",
+    "slug": "maximum-substrings-with-distinct-start",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/4087-maximum-substrings-with-distinct-start/maximum-substrings-with-distinct-start.cpp",
+    "folder": "4087-maximum-substrings-with-distinct-start",
+    "lc_link": "https://leetcode.com/problems/maximum-substrings-with-distinct-start/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4087-maximum-substrings-with-distinct-start/maximum-substrings-with-distinct-start.cpp"
+  },
+  {
     "id": 4126,
     "id_str": "4126",
     "name": "Minimum Number Of Flips To Reverse Binary String",

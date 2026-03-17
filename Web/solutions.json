@@ -36,6 +36,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/13-roman-to-integer/roman-to-integer.cpp"
   },
   {
+    "id": 14,
+    "id_str": "0014",
+    "name": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/14-longest-common-prefix/longest-common-prefix.cpp",
+    "folder": "14-longest-common-prefix",
+    "lc_link": "https://leetcode.com/problems/longest-common-prefix/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/14-longest-common-prefix/longest-common-prefix.cpp"
+  },
+  {
     "id": 34,
     "id_str": "0034",
     "name": "Find First And Last Position Of Element In Sorted Array",

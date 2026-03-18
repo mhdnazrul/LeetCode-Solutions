@@ -48,6 +48,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/14-longest-common-prefix/longest-common-prefix.cpp"
   },
   {
+    "id": 20,
+    "id_str": "0020",
+    "name": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/20-valid-parentheses/valid-parentheses.cpp",
+    "folder": "20-valid-parentheses",
+    "lc_link": "https://leetcode.com/problems/valid-parentheses/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/20-valid-parentheses/valid-parentheses.cpp"
+  },
+  {
     "id": 34,
     "id_str": "0034",
     "name": "Find First And Last Position Of Element In Sorted Array",

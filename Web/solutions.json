@@ -72,6 +72,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/21-merge-two-sorted-lists/merge-two-sorted-lists.cpp"
   },
   {
+    "id": 26,
+    "id_str": "0026",
+    "name": "Remove Duplicates From Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp",
+    "folder": "26-remove-duplicates-from-sorted-array",
+    "lc_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp"
+  },
+  {
     "id": 34,
     "id_str": "0034",
     "name": "Find First And Last Position Of Element In Sorted Array",

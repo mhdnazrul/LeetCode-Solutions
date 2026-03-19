@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-20-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-21-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,11 +26,11 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 20
+**Total Problems Solved:** 21
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
-| 🟢 Easy   | 12 | ████████████ |
+| 🟢 Easy   | 13 | █████████████ |
 | 🟡 Medium | 8 | ████████░░ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 20 |
+| C++ | 21 |
 
 </details>
 <!-- STATS_END -->
@@ -54,6 +54,7 @@
 | 13 | Roman To Integer | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/roman-to-integer/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/13-roman-to-integer/roman-to-integer.cpp) |
 | 14 | Longest Common Prefix | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/longest-common-prefix/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/14-longest-common-prefix/longest-common-prefix.cpp) |
 | 20 | Valid Parentheses | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/valid-parentheses/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/20-valid-parentheses/valid-parentheses.cpp) |
+| 21 | Merge Two Sorted Lists | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/21-merge-two-sorted-lists/merge-two-sorted-lists.cpp) |
 | 34 | Find First And Last Position Of Element In Sorted Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
 | 792 | Binary Search | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-search/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp) |
 | 948 | Sort An Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/sort-an-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp) |

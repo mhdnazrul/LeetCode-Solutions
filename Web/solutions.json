@@ -60,6 +60,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/20-valid-parentheses/valid-parentheses.cpp"
   },
   {
+    "id": 21,
+    "id_str": "0021",
+    "name": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/21-merge-two-sorted-lists/merge-two-sorted-lists.cpp",
+    "folder": "21-merge-two-sorted-lists",
+    "lc_link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/21-merge-two-sorted-lists/merge-two-sorted-lists.cpp"
+  },
+  {
     "id": 34,
     "id_str": "0034",
     "name": "Find First And Last Position Of Element In Sorted Array",

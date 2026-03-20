@@ -12,6 +12,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1-two-sum/two-sum.cpp"
   },
   {
+    "id": 2,
+    "id_str": "0002",
+    "name": "Add Two Numbers",
+    "slug": "add-two-numbers",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/2-add-two-numbers/add-two-numbers.cpp",
+    "folder": "2-add-two-numbers",
+    "lc_link": "https://leetcode.com/problems/add-two-numbers/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/2-add-two-numbers/add-two-numbers.cpp"
+  },
+  {
     "id": 9,
     "id_str": "0009",
     "name": "Palindrome Number",

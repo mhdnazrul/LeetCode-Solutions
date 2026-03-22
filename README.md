@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-23-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-24-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,19 +26,19 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 23
+**Total Problems Solved:** 24
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
 | 🟢 Easy   | 14 | ██████████████ |
-| 🟡 Medium | 9 | █████████░ |
+| 🟡 Medium | 10 | ██████████ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
 <details><summary><b>📈 Language Breakdown</b></summary>
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 23 |
+| C++ | 24 |
 
 </details>
 <!-- STATS_END -->
@@ -52,6 +52,7 @@
 | 1 | Two Sum | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/two-sum/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1-two-sum/two-sum.cpp) |
 | 2 | Add Two Numbers | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/add-two-numbers/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/2-add-two-numbers/add-two-numbers.cpp) |
 | 9 | Palindrome Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/palindrome-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp) |
+| 12 | Integer To Roman | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/integer-to-roman/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/12-integer-to-roman/integer-to-roman.cpp) |
 | 13 | Roman To Integer | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/roman-to-integer/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/13-roman-to-integer/roman-to-integer.cpp) |
 | 14 | Longest Common Prefix | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/longest-common-prefix/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/14-longest-common-prefix/longest-common-prefix.cpp) |
 | 20 | Valid Parentheses | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/valid-parentheses/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/20-valid-parentheses/valid-parentheses.cpp) |

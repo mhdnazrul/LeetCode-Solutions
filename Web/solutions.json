@@ -36,6 +36,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp"
   },
   {
+    "id": 12,
+    "id_str": "0012",
+    "name": "Integer To Roman",
+    "slug": "integer-to-roman",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/12-integer-to-roman/integer-to-roman.cpp",
+    "folder": "12-integer-to-roman",
+    "lc_link": "https://leetcode.com/problems/integer-to-roman/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/12-integer-to-roman/integer-to-roman.cpp"
+  },
+  {
     "id": 13,
     "id_str": "0013",
     "name": "Roman To Integer",

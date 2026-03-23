@@ -24,6 +24,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/2-add-two-numbers/add-two-numbers.cpp"
   },
   {
+    "id": 6,
+    "id_str": "0006",
+    "name": "Zigzag Conversion",
+    "slug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/6-zigzag-conversion/zigzag-conversion.cpp",
+    "folder": "6-zigzag-conversion",
+    "lc_link": "https://leetcode.com/problems/zigzag-conversion/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/6-zigzag-conversion/zigzag-conversion.cpp"
+  },
+  {
     "id": 9,
     "id_str": "0009",
     "name": "Palindrome Number",

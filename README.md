@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-25-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-26-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,19 +26,19 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 25
+**Total Problems Solved:** 26
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
 | 🟢 Easy   | 14 | ██████████████ |
-| 🟡 Medium | 11 | ███████████ |
+| 🟡 Medium | 12 | ████████████ |
 | 🔴 Hard   | 0 | ░░░░░░░░░░ |
 
 <details><summary><b>📈 Language Breakdown</b></summary>
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 25 |
+| C++ | 26 |
 
 </details>
 <!-- STATS_END -->
@@ -51,6 +51,7 @@
 |:--|:-------------|:----------:|:--------:|:-------:|:--------:|
 | 1 | Two Sum | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/two-sum/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1-two-sum/two-sum.cpp) |
 | 2 | Add Two Numbers | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/add-two-numbers/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/2-add-two-numbers/add-two-numbers.cpp) |
+| 3 | Longest Substring Without Repeating Characters | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
 | 6 | Zigzag Conversion | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/zigzag-conversion/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/6-zigzag-conversion/zigzag-conversion.cpp) |
 | 9 | Palindrome Number | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/palindrome-number/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/9-palindrome-number/palindrome-number.cpp) |
 | 12 | Integer To Roman | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/integer-to-roman/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/12-integer-to-roman/integer-to-roman.cpp) |

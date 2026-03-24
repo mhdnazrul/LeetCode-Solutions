@@ -24,6 +24,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/2-add-two-numbers/add-two-numbers.cpp"
   },
   {
+    "id": 3,
+    "id_str": "0003",
+    "name": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp",
+    "folder": "3-longest-substring-without-repeating-characters",
+    "lc_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp"
+  },
+  {
     "id": 6,
     "id_str": "0006",
     "name": "Zigzag Conversion",

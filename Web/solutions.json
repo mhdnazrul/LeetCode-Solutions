@@ -36,6 +36,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp"
   },
   {
+    "id": 4,
+    "id_str": "0004",
+    "name": "Median Of Two Sorted Arrays",
+    "slug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "language": "C++",
+    "path": "Solutions/4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp",
+    "folder": "4-median-of-two-sorted-arrays",
+    "lc_link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp"
+  },
+  {
     "id": 6,
     "id_str": "0006",
     "name": "Zigzag Conversion",

@@ -60,6 +60,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/6-zigzag-conversion/zigzag-conversion.cpp"
   },
   {
+    "id": 7,
+    "id_str": "0007",
+    "name": "Reverse Integer",
+    "slug": "reverse-integer",
+    "difficulty": "Medium",
+    "language": "C++",
+    "path": "Solutions/7-reverse-integer/reverse-integer.cpp",
+    "folder": "7-reverse-integer",
+    "lc_link": "https://leetcode.com/problems/reverse-integer/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/7-reverse-integer/reverse-integer.cpp"
+  },
+  {
     "id": 9,
     "id_str": "0009",
     "name": "Palindrome Number",

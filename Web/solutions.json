@@ -156,6 +156,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp"
   },
   {
+    "id": 27,
+    "id_str": "0027",
+    "name": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/27-remove-element/remove-element.cpp",
+    "folder": "27-remove-element",
+    "lc_link": "https://leetcode.com/problems/remove-element/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/27-remove-element/remove-element.cpp"
+  },
+  {
     "id": 34,
     "id_str": "0034",
     "name": "Find First And Last Position Of Element In Sorted Array",

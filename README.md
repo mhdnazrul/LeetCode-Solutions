@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-29-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-30-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,11 +26,11 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 29
+**Total Problems Solved:** 30
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
-| 🟢 Easy   | 15 | ███████████████ |
+| 🟢 Easy   | 16 | ████████████████ |
 | 🟡 Medium | 13 | █████████████ |
 | 🔴 Hard   | 1 | █░░░░░░░░░ |
 
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 29 |
+| C++ | 30 |
 
 </details>
 <!-- STATS_END -->
@@ -69,6 +69,7 @@
 | 1071 | Binary Prefix Divisible By 5 | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp) |
 | 3476 | Find Minimum Operations To Make All Elements Divisible By Three | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3476-find-minimum-operations-to-make-all-elements-divisible-by-three/find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) |
 | 3496 | Minimum Number Of Seconds To Make Mountain Height Zero | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3496-minimum-number-of-seconds-to-make-mountain-height-zero/minimum-number-of-seconds-to-make-mountain-height-zero.cpp) |
+| 3768 | Check If Digits Are Equal In String After Operations I | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3768-check-if-digits-are-equal-in-string-after-operations-i/check-if-digits-are-equal-in-string-after-operations-i.cpp) |
 | 4062 | House Robber V | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/house-robber-v/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4062-house-robber-v/house-robber-v.cpp) |
 | 4087 | Maximum Substrings With Distinct Start | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4087-maximum-substrings-with-distinct-start/maximum-substrings-with-distinct-start.cpp) |
 | 4126 | Minimum Number Of Flips To Reverse Binary String | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/4126-minimum-number-of-flips-to-reverse-binary-string/minimum-number-of-flips-to-reverse-binary-string.cpp) |

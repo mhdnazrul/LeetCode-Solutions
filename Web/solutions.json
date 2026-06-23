@@ -240,6 +240,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3496-minimum-number-of-seconds-to-make-mountain-height-zero/minimum-number-of-seconds-to-make-mountain-height-zero.cpp"
   },
   {
+    "id": 3768,
+    "id_str": "3768",
+    "name": "Check If Digits Are Equal In String After Operations I",
+    "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/3768-check-if-digits-are-equal-in-string-after-operations-i/check-if-digits-are-equal-in-string-after-operations-i.cpp",
+    "folder": "3768-check-if-digits-are-equal-in-string-after-operations-i",
+    "lc_link": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/3768-check-if-digits-are-equal-in-string-after-operations-i/check-if-digits-are-equal-in-string-after-operations-i.cpp"
+  },
+  {
     "id": 4062,
     "id_str": "4062",
     "name": "House Robber V",

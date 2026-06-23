@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-30-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-31-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,19 +26,19 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 30
+**Total Problems Solved:** 31
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
 | 🟢 Easy   | 16 | ████████████████ |
 | 🟡 Medium | 13 | █████████████ |
-| 🔴 Hard   | 1 | █░░░░░░░░░ |
+| 🔴 Hard   | 2 | ██░░░░░░░░ |
 
 <details><summary><b>📈 Language Breakdown</b></summary>
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 30 |
+| C++ | 31 |
 
 </details>
 <!-- STATS_END -->
@@ -64,6 +64,7 @@
 | 26 | Remove Duplicates From Sorted Array | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 27 | Remove Element | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/remove-element/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/27-remove-element/remove-element.cpp) |
 | 34 | Find First And Last Position Of Element In Sorted Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 84 | Largest Rectangle In Histogram | 🔴 Hard | C++ | [🔗 Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/84-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp) |
 | 792 | Binary Search | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-search/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp) |
 | 948 | Sort An Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/sort-an-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp) |
 | 1071 | Binary Prefix Divisible By 5 | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp) |

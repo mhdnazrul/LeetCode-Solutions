@@ -192,6 +192,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/84-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp"
   },
   {
+    "id": 125,
+    "id_str": "0125",
+    "name": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/125-valid-palindrome/valid-palindrome.cpp",
+    "folder": "125-valid-palindrome",
+    "lc_link": "https://leetcode.com/problems/valid-palindrome/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/125-valid-palindrome/valid-palindrome.cpp"
+  },
+  {
     "id": 792,
     "id_str": "0792",
     "name": "Binary Search",

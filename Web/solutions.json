@@ -240,6 +240,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp"
   },
   {
+    "id": 1920,
+    "id_str": "1920",
+    "name": "Determine Color Of A Chessboard Square",
+    "slug": "determine-color-of-a-chessboard-square",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/1920-determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.cpp",
+    "folder": "1920-determine-color-of-a-chessboard-square",
+    "lc_link": "https://leetcode.com/problems/determine-color-of-a-chessboard-square/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1920-determine-color-of-a-chessboard-square/determine-color-of-a-chessboard-square.cpp"
+  },
+  {
     "id": 3476,
     "id_str": "3476",
     "name": "Find Minimum Operations To Make All Elements Divisible By Three",

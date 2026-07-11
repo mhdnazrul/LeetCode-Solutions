@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-34-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-35-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,11 +26,11 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 34
+**Total Problems Solved:** 35
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
-| 🟢 Easy   | 19 | ███████████████████ |
+| 🟢 Easy   | 20 | ████████████████████ |
 | 🟡 Medium | 13 | █████████████ |
 | 🔴 Hard   | 2 | ██░░░░░░░░ |
 
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 34 |
+| C++ | 35 |
 
 </details>
 <!-- STATS_END -->
@@ -64,6 +64,7 @@
 | 26 | Remove Duplicates From Sorted Array | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) |
 | 27 | Remove Element | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/remove-element/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/27-remove-element/remove-element.cpp) |
 | 34 | Find First And Last Position Of Element In Sorted Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.cpp) |
+| 58 | Length Of Last Word | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/length-of-last-word/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/58-length-of-last-word/length-of-last-word.cpp) |
 | 67 | Add Binary | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/add-binary/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/67-add-binary/add-binary.cpp) |
 | 84 | Largest Rectangle In Histogram | 🔴 Hard | C++ | [🔗 Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/84-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp) |
 | 125 | Valid Palindrome | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/valid-palindrome/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/125-valid-palindrome/valid-palindrome.cpp) |

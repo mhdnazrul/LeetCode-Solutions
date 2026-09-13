@@ -240,6 +240,18 @@
     "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/125-valid-palindrome/valid-palindrome.cpp"
   },
   {
+    "id": 225,
+    "id_str": "0225",
+    "name": "Implement Stack Using Queues",
+    "slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "language": "C++",
+    "path": "Solutions/225-implement-stack-using-queues/implement-stack-using-queues.cpp",
+    "folder": "225-implement-stack-using-queues",
+    "lc_link": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "sol_link": "https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/225-implement-stack-using-queues/implement-stack-using-queues.cpp"
+  },
+  {
     "id": 792,
     "id_str": "0792",
     "name": "Binary Search",

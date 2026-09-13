@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" alt="Languages">
-  <img src="https://img.shields.io/badge/Total%20Solved-36-00b894?style=for-the-badge&logo=leetcode" alt="Total">
+  <img src="https://img.shields.io/badge/Total%20Solved-37-00b894?style=for-the-badge&logo=leetcode" alt="Total">
   <img src="https://img.shields.io/github/stars/mhdnazrul/LeetCode-Solutions?style=for-the-badge&logo=github" alt="Stars">
   <a href="https://leetcode.com/mhdnazrul/">
     <img src="https://img.shields.io/badge/LeetCode-mhdnazrul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -26,11 +26,11 @@
 ## 📊 Progress Statistics
 
 <!-- STATS_START -->
-**Total Problems Solved:** 36
+**Total Problems Solved:** 37
 
 | Difficulty | Count | Progress |
 |:-----------|:-----:|:--------:|
-| 🟢 Easy   | 21 | █████████████████████ |
+| 🟢 Easy   | 22 | ██████████████████████ |
 | 🟡 Medium | 13 | █████████████ |
 | 🔴 Hard   | 2 | ██░░░░░░░░ |
 
@@ -38,7 +38,7 @@
 
 | Language | Count |
 |:---------|:-----:|
-| C++ | 36 |
+| C++ | 37 |
 
 </details>
 <!-- STATS_END -->
@@ -69,6 +69,7 @@
 | 67 | Add Binary | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/add-binary/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/67-add-binary/add-binary.cpp) |
 | 84 | Largest Rectangle In Histogram | 🔴 Hard | C++ | [🔗 Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/84-largest-rectangle-in-histogram/largest-rectangle-in-histogram.cpp) |
 | 125 | Valid Palindrome | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/valid-palindrome/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/125-valid-palindrome/valid-palindrome.cpp) |
+| 225 | Implement Stack Using Queues | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/implement-stack-using-queues/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/225-implement-stack-using-queues/implement-stack-using-queues.cpp) |
 | 792 | Binary Search | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-search/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/792-binary-search/binary-search.cpp) |
 | 948 | Sort An Array | 🟡 Medium | C++ | [🔗 Problem](https://leetcode.com/problems/sort-an-array/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/948-sort-an-array/sort-an-array.cpp) |
 | 1071 | Binary Prefix Divisible By 5 | 🟢 Easy | C++ | [🔗 Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [💻 Solution](https://github.com/mhdnazrul/LeetCode-Solutions/blob/main/Solutions/1071-binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp) |
